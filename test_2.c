@@ -1,4 +1,4 @@
 void func_2()
 {
-	printf("what a test 1.5");
+	printf("what a test 2\n");
 }
